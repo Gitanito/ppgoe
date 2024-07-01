@@ -12,12 +12,12 @@ author: W. Peter Mulacz
 
 ## 15. April 96
 
-{: .box-warning}
+{: .box-warning
 _Viktor Farkas, Wien:_
 ### Unglaublich - aber wahr!
 (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
 *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
-
+}
 
 ## 06. Mai 96
 

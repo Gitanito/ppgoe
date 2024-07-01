@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Basisinformation über Parapsychologie
+tags: [info]
 ---
 
 Seit jeher haben Menschen von außergewöhnlichen Erfahrungen (AgE) berichtet, die schwer in den Alltagshorizont ihres Erlebens einzuordnen waren:  von Ahnungen, Visionen, Erscheinungen Verstorbener, Erinnerungen an frühere Leben udgl., wobei verschiedene Perioden der Geistesgeschichte diese Phänomene unterschiedlich rezipiert haben.

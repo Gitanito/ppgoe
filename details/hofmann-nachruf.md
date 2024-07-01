@@ -2,6 +2,7 @@
 layout: page
 title: Hellmut Hofmann
 subtitle: Nachruf
+tags: [person]
 ---
 
 # Hellmut Hofmann 1921 – 2009

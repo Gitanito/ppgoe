@@ -2,6 +2,7 @@
 layout: page
 title: Eleonore ZUGUN
 subtitle: Parapsychology Psi Mulacz Zugun Wassilko
+tags: [person]
 ---
 
 ELEONORE ZUGUN –

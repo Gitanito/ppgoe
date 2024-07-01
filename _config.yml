@@ -22,7 +22,7 @@ author: Österreichische Gesellschaft für Parapsychologie
 navbar-links:
   Über uns: "about"
   Resourcen:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - Basisinformation: "details/basicinfo.md"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Mitglieder: "https://deanattali.com"
 

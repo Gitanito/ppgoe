@@ -10,10 +10,8 @@ author: W. Peter Mulacz
 # Vortragsprogramm für das Sommer-Semester 1996
 
 
---- 
+## 15. April 96
 
-
-## 15. April 96 
 {: .box-warning}
 _Viktor Farkas, Wien:_
 ### Unglaublich - aber wahr!
@@ -21,13 +19,15 @@ _Viktor Farkas, Wien:_
 *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
 
 
-## 06. Mai 96 
+## 06. Mai 96
+
 {: .box-warning}
 _DDr. Walter von Lucadou, Freiburg i. Br.:_
 ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
 
 
-## 07. Mai 96 
+## 07. Mai 96
+
 {: .box-warning}
 _DDr. Walter von Lucadou, Freiburg i. Br.:_
 ### Quantenphysik und Parapsychologie
@@ -35,6 +35,7 @@ _DDr. Walter von Lucadou, Freiburg i. Br.:_
 
 
 ## 20. Mai 96
+
 {: .box-warning}
 _W. Peter Mulacz, Wien:_
 ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
@@ -42,6 +43,7 @@ _W. Peter Mulacz, Wien:_
 
 
 ## 03. Juni 96
+
 {: .box-warning}
 _Alfons Steiner, Wien:_
 ### Eine Gruppe erzeugt "Philipp"

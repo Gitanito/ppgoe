@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hellmut Hofmann 1921 – 2009
-subtitle: em. o. Univ. Prof. Dipl.-Ing. Dr. techn. Hellmut Hofmann
+title: Hellmut Hofmann
+subtitle: Nachruf
 ---
 
 # Hellmut Hofmann 1921 – 2009

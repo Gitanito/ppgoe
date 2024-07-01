@@ -1,35 +1,45 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2023
+subtitle: Vortragsprogramm für das Sommer-Semester 2023
+tags: [Vortragsprogramm, 2023]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 3. April 23
+> Prof. Peter Mulacz, Wien:
+> ### ZWEI MARKANTE SPUKFÄLLE:  WILMA MOLNÁR UND ELEONORE ZUGUN
+> Analogien und Differenzen
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
+## 17. April 23
+> Univ.-Doz. Dr. Mag. Rudolf Werner Soukup, Wien:
+> ### ALCHEMIE — DIE KUNST DER VERWANDLUNG
+> Alchemistische Goldmacherei und spagyrische Heilmittelherstellung
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 8. Mai 23
+> Dipl.-Ing. Hannes Schmid, Kassel, BRD:
+> ### ENTELECHIE UND TELOS BEI BURKHARD HEIM
+> Ein kontroverser Ansatz für eine physikalische Parapsychologie
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
+## 15. Mai 23
+> Prof. (FH) Dipl.-Ing. Dr. Robert Pucher, Wien/Graz:
+> ### AUSSERSINNLICHE WAHRNEHMUNGEN UND DAS „ICH“ — PSI IM ALLTAG
+> Begünstigende mentale Zustände und deren willentliche Herbeiführung
 
-          
+## 12. Juni 23
+> Dipl.-Ing. Dr. Wolfhardt Janu, Wolfsgraben:
+> ### EROS UND THANATOS — MESSBARE „BEBEN“ IM BEWUSSTSEINSFELD
+
+
+
+
+
+Sofern nichts anderes angegeben ist, gilt:
+
+Die Vorträge finden im Neuen Institutsgebäude der Universität Wien („NIG“), 1010 Wien, Universitätsstraße 7, statt (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+Beginnzeit: jeweils 20 Uhr c.t.
+
+

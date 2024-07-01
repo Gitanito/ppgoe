@@ -1,35 +1,42 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2007
+subtitle: Vortragsprogramm für das Sommer-Semester 2007
+tags: [Vortragsprogramm, 2007]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
+## 16. April 07
+> Univ. Prof. Dr. Shulamit Kreitler, Tel Aviv:
+> ### Veränderte Bewußtseinszustände und psi-Phänomene
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 30. April 07
+> Prof. Peter Mulacz, Wien:
+> ### Im Fokus:   Das Außergewöhnliche
+> Zum hundertsten Geburtstag des Pioniers der akademischen Parapsychologie, Hans Bender
+> (05. 02. 1907 - 07. 05. 1991)
+> (mit Filmausschnitt und Tondokumenten)
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
+## 21. Mai 07
+> Prof. DI Dr. Robert Pucher, Wien:
+> ### Reinkarnation – Wunschdenken oder Wahrheit?
+> Erinnerungen an Vorleben kritisch betrachtet
 
-          
+## 04. Juni 07
+> Prof. Peter Mulacz, Wien:
+> ### Filmabend – die Dokumentation des Paranormalen im Film anhand verschiedener Filmausschnitte
+
+## 18. Juni 07
+> Mag. Dr. Christa Tuczay, Wien:
+> ### Okkulttäter, Charlatane und Zauberkünstler
+> ein diachroner Streifzug durch die Schattenbereiche des angeblich Paranormalen
+
+Wenn nichts anderes angegeben, gilt:
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten tlw. zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [halb-rechts]).
+
+
+Beginn:   20.00 h s. t. !

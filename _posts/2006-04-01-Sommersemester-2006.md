@@ -1,35 +1,47 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2006
+subtitle: Vortragsprogramm für das Sommer-Semester 2006
+tags: [Vortragsprogramm, 2006]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
+## 03. April 06
+> ### Generalversammlung (nur für Mitglieder!)
+> anschließend (ca. 20:45h):
+> Offene Diskussion über aktuelle Fragen der Parapsychologie (Gäste willkommen)
+> Diskussionsleitung: Prof. Peter Mulacz
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
+## 24. April 06
+> Mag. Dr. Michael Engel, Wien:
+> ### Die Phänomenologie von Ayahuasca-Erfahrungen
+> Konstitution von Wirklichkeiten während Ayahuasca-Ritualen (Peru)
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 08. Mai 06
+> Prof. Peter Mulacz, Wien:
+> ### Mozart — Mesmer — Freud
+> Franz Anton Mesmer und seine Beziehungen zu den beiden „kulturellen Jahresregenten 2006“
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
 
-          
+## 22. Mai 06
+> Dr. Friedrich Bestenreiner, München:
+> ### Intelligent Design (ID) contra Zufall
+> Kreationismus und Darwinismus im Lichte parapsychologischer Versuchsergebnisse
+
+
+## 12. Juni 06
+> Mag. Dr. Heinrich Kusch, Graz:
+> ### Vom Zufluchtsort zur Kultstätte
+> Die kulturgeschichtliche Bedeutung der Höhle in der Menschheitsgeschichte
+(Mit Lichtbildern)
+
+
+
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [rechts]).
+
+
+Beginn:   20.00 h pünktlich
+

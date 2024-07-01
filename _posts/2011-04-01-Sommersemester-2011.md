@@ -1,35 +1,53 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2011
+subtitle: Vortragsprogramm für das Sommer-Semester 2011
+tags: [Vortragsprogramm, 2011]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 21. März 11
+> FH-Prof. DI Dr. Robert Pucher, Wien:
+> ### Beeinflussung des Zufalls?
+> Untersuchungen zur willentlichen Beeinflussung von zufälligen Ereignissen (PEAR-Experimente in Princeton, aktuelle Versuchsplanung) und die Relevanz für das tägliche Leben
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
+## 11. April 11
+> Priv.-Doz. Mag. Dr. Christa A. Tuczay, Wien:
+> ### Berserkerwut – Mythos oder Kampftechnik?
+> Mobilisation scheinbar unerklärlicher Körperkraft
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 30. Mai 11
+> Vortrag in englischer Sprache
+>
+> Prof. Stanley Krippner PhD, San Francisco, USA:
+> ### Dream Telepathy
+> Experiments in Nocturnal ESP
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
 
-          
+## 31. Mai 11
+> Vortrag in englischer Sprache
+>
+> Prof. Stanley Krippner PhD, San Francisco, USA:
+> ### The Strange Case of Amyr Amiden
+> Apports, Stigmata, and Geomagnetic Field Effects
+
+
+## 20. Juni 11
+> Mag. Dr. Sigrid Vollmann, Graz:
+> ### Parapsychologische Phänomene in der klassischen Antike
+> Hellseherei, Liebeszauber und andere Phänomene
+> vom 7. Jahrhundert v. Chr. bis zum Untergang des römischen Reiches
+
+
+
+
+Wenn nichts anderes angegeben, gilt:
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten tlw. zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+
+Beginn:   20 Uhr c. t. !
+
+  

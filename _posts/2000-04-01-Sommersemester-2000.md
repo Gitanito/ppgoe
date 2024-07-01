@@ -1,35 +1,44 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2000
+subtitle: Vortragsprogramm für das Sommer-Semester 2000
+tags: [Vortragsprogramm, 2000]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
+## 13. März	00 
+> Margarete LEUTNER, Wien:
+> ### Selbsterfahrung durch Transkommunikation
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 03. April 00
+> Lektor Dr. Günther FLECK, HPD Wien:
+> ### Parapsychologische Forschung am "KOESTLER CHAIR" in EDINBURGH   
+> (mit Diapositiven)
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
 
-          
+## Dreiteiliger Zyklus "Magische Vorstellungen verschiedener Epochen":
+
+## 08. Mai 00
+> HR Univ.-Prof. Dr. Hermann HARRAUER, Papyrusmuseum, ÖNB Wien:
+> ### Magie im alten Ägyptenanhand ägyptischer Zauberpapyri
+> (mit Diapositiven und Originalmaterial)
+
+## 22. Mai 00
+> Univ.-Ass. Dr. Stephan PROCHÁZKA, Inst. f. Orientalistik d. Univ. Wien:
+> ### Magie und Zauberwesen im Islam
+> (mit Diapositiven und Anschauungsmaterial)
+
+## 05. Juni 00
+> Lehrbeauftr. Mag. Dr. Christa TUCZAY, Motiv-Index, ÖAW Wien:
+> ### Magie und Magier im Mittelalter
+> #### mit besonderer Berücksichtigung von paranormalen Fähigkeiten und Phänomenen
+> (mit Diapositiven)
+
+
+Die Vorträge finden im neuen Elektrotechnischen Institut der Technischen Universität Wien,  1040 WIEN,  Gußhausstraße 27–29, statt  (Parterre rechts,  Hörsaal IX   –   Edmund HLAWKA-Hörsaal).
+
+Beginn:   19.00 h pünktlich
+

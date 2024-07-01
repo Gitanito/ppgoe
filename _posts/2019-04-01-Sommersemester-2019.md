@@ -1,35 +1,46 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2019
+subtitle: Vortragsprogramm für das Sommer-Semester 2019
+tags: [Vortragsprogramm, 2019]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 25. März 19
+> a. o. Univ.-Prof. i. R. Dr. Roland Girtler, Wien:
+> ### Das „Übersinnliche“ im Erleben der bäuerlichen Bevölkerung
+> Von Volksglauben, Spukgeschichten und Medizinzauber
+>
+> Der Termin muß leider wegen unfallsbedingten Spitalsaufenthalts des Referenten abgesagt werden.
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
+## 8. April 19
+> Prof. Peter Mulacz, Wien:
+> ### Im Rotlicht bewegt sich ein Taschentuch …
+> Thomas Mann und die Parapsychologie
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 6. Mai 19
+> FH-Prof. Dipl.-Ing. Dr. Robert Pucher, Wien:
+> ### Physik und Parapsychologie – unüberbrückbare Gegensätze, oder nicht?
+> Können parapsychische Phänomene und moderne Wissenschaften koexistieren?
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
+## 23. Mai 19
+> Einlaß 13:30 h Beginn 14:00 h
+> ### Festakt zur Enthüllung der Gedenktafel für Franz Anton Mesmer
+> Rasumofskygasse 29, 1030 Wien
+> Anmeldung notwendig: office@parapsychologie.ac.at
 
-          
+## 17. Juni 19
+> HR i. R. Dr. Günther Fleck, Pfaffstätten:
+> ### Das Phänomen des Doppelgängers jenseits der Schönen Literatur
+> Psychiatrische und parapsychologische Perspektiven
+
+
+
+
+Sofern nichts anderes angegeben ist, gilt:
+
+Die Vorträge finden im Neuen Institutsgebäude der Universität Wien („NIG“), 1010 Wien, Universitätsstraße 7, statt (Parterre, geradeaus die Stiegen hinunter, Hörsaal III).
+
+Beginnzeit: jeweils 20 Uhr c.t.

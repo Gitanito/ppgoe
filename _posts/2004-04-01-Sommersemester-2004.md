@@ -1,35 +1,44 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2004
+subtitle: Vortragsprogramm für das Sommer-Semester 2004
+tags: [Vortragsprogramm, 2004]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 08. März 04
+> Prof. Peter MULACZ, WIEN:
+> ### „Zeitgeschichte“ und Parapsychologie – Teil II
+> #### Parapsychologie im „Dritten Reich“
+> Die Schicksale der älteren Generation der deutschen Parapsychologen – Hans BENDER und die Reichsuniversität STRASSBURG – Forschung auf Grenzgebieten während der NS-Zeit
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
+## 22. März 04
+> Ao. Univ.-Prof. Dr. Gerhard KUBIK, MALAWI, KLAGENFURT und WIEN:
+> ### Alter Ego – Totemismus
+> Mensch-Tier-Kommunikation und Symbolismus
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 19. April 04
+> Univ.-Prof. Dr. Erlendur HARALDSSON, REYKJAVIK:
+> ### Erscheinungen Verstorbener
+> Fallberichte und Interpretationsfragen
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
 
-          
+## 20. April 04
+> Univ.-Prof. Dr. Erlendur HARALDSSON, REYKJAVIK:
+> ### Kinder, die sich an „frühere Leben“ erinnern
+> Fallberichte aus dem Libanon, Sri Lanka und Island
+
+
+## 24. Mai 04
+> Alfons STEINER, WIEN:
+> ### Agrippa von NETTESHEIM - Magier oder Wissenschaftler?
+
+
+
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten zusätzlich an Dienstagen im Neuen Institutsgebäude der Universität Wien,   1010 WIEN,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [rechts]).
+
+Beginn:   20.00 h pünktlich
+

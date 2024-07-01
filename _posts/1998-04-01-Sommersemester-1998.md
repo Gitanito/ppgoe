@@ -1,35 +1,40 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 1998
+subtitle: Vortragsprogramm für das Sommer-Semester 1998
+tags: [Vortragsprogramm, 1998]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 16. März 98
+> Hörsaal IX	Mag. Dr. Brigitte HOLZINGER, Wien:
+> ### Der luzide Traum
+> #### Phänomenologie und Physiologie
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
+## 20. April 98
+> Hörsaal IX	W. Peter MULACZ, Wien:
+> ### Parapsychologie heute – die internationale Vernetzung der Parapsychologie
+> Berichte über die 40. Jahrestagung der Parapsychological Association in BRIGHTON (Aug. 97), das XIII. Workshop der WGFP (OFFENBURG, Okt. 97) und die 15. Basler Psi-Tage (Nov. 97)
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 11. Mai 98
+> Hörsaal IX	Prof. Dr. Ernst SENKOWSKI, Mainz:
+> ### Paranormale elektronische Effekte und ihre Deutungen I 
+> #### Animismus – Spiritismus – Holistik
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
 
+## 12. Mai 98
+> Hörsaal IX	Prof. Dr. Ernst SENKOWSKI, Mainz
+> ### Paranormale elektronische Effekte und ihre Deutungen II
+> #### Grenzwissenschaftliche Ansätze
+
+
+## 25. Mai 98
+> Hörsaal VII	Asst.-Prof. Dr. Manfred KREMSER, W. Peter MULACZ und Dipl.-Ing. Dieter SCHORNBÖCK, Wien:
+> ### Psyberspace (Psi in Cyberspace)
+> #### Parapsychologie und Grenzgebiete im Internet
+> (mit on-line-Demonstrationen via "Beamer")
+
+Die Vorträge finden im neuen Elektrotechnischen Institut der Technischen Universität  Wien, 1040 Wien,  Gußhausstraße 27 - 29, Parterre, statt; Beginn: 19.00 h pünktlich.
           

@@ -1,35 +1,47 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2008
+subtitle: Vortragsprogramm für das Sommer-Semester 2008
+tags: [Vortragsprogramm, 2008]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 07. April 08
+> Dr. Albrecht Götz von Olenhusen, Freiburg i. Br.:
+> ### Karl May und der Spiritismus
+> Weltanschauung – Weltbewältigung – Wissenschaft
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
+## 21. April 08
+> em. Univ. Prof. Dr. Erlendur Haraldsson, Reykjavik:
+> ### Parapsychologie und Religion
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 22. April 08
+> em. Univ. Prof. Dr. Erlendur Haraldsson, Reykjavik:
+> ### „Paranormale Erlebnisse“ – Ergebnisse einer neuen Umfrage in Europa
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
+## 31. Mai 08
+> Ort: Naturhistorisches Museum Wien, Vortragssaal,
+> Zeit: Beginn 09:30 h ganztags
+> ### Arthur Koestler-Symposium:
+> Arthur Koestler – Jenseits von Reduktionismus und Zufall
+> Zur 25. Wiederkehr des Todestages (3. März 1983) Arthur Koestlers
+> Eine Kooperationsveranstaltung mit der Österreichischen Gesellschaft für organismisch-systemische Forschung und Theorie
+Die Teilnahme am Symposium ist kostenlos, der Zutritt ist jedoch an den Erwerb einer Eintrittskarte für das Naturhistorische Museum gebunden.
 
-          
+
+## 16. Juni	08
+> Ao. Univ.-Prof. Dr. Gerhard Kubik, Wien/Klagenfurt:
+> ### MAHAMBA – Afrikanische Vorstellungen transzendenter Kräfte
+> Neue Feldforschung in Ostangola
+
+
+
+Wenn nichts anderes angegeben, gilt:
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten tlw. zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+
+Beginn:   20.00 h s. t. !
+

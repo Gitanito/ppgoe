@@ -1,35 +1,44 @@
 ---
 layout: post
-title: Sommer-Semester 1996
-subtitle: Vortragsprogramm für das Sommer-Semester 1996
-tags: [Vortragsprogramm, 1996]
+title: Sommer-Semester 2003
+subtitle: Vortragsprogramm für das Sommer-Semester 2003
+tags: [Vortragsprogramm, 2003]
 comments: false
 author: W. Peter Mulacz
 ---
 
-## 15. April 96
-> Viktor Farkas, Wien:
-> ### Unglaublich - aber wahr!
-> (Unerklärliche Phänomene* - Geheimes Wissen -   Verborgene Fähigkeiten - Beweise, die es nicht geben dürfte...)
-> *) "Unerklärliche Phänomene" ist auch der Titel eines der Bücher des Referenten
+## 17. März 03
+> Prof. Dr. h. c. Erich FEIGL, WIEN:
+> ### Begegnungen mit dem Paranormalen
+> Persönliche Erlebnisse und Erfahrungen auf dem Berg Athos und in anderen Ambienten
 
-## 06. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Das Spektrum paranormaler Fallberichte im Spiegel der Erfahrungen der Parapsychologischen Beratungsstelle
+## 7. April 03
+> Prof. Peter MULACZ, WIEN:
+> ### Die Parapsychologie im Umriß
+> Ein Überblick über die Phänomene, Methoden, Ergebnisse und Probleme der Parapsychologie, insbesondere für neue Mitglieder und Gäste
 
-## 07. Mai 96
-> DDr. Walter von Lucadou, Freiburg i. Br.:
-> ### Quantenphysik und Parapsychologie
-> (Versuch einer theoretischen Vertiefung dieser Erfahrungen durch das Modell der "Pragmatischen Information" [MPI] )
+## 12. Mai 03
+> Mag. phil. Gerhard K. TUCEK, Schloß ROSENAU:
+> ### Das Spannungsfeld zwischen spirituellem und wissenschaftlichem Anspruch am Beispiel der Altorientalischen Musiktherapie
+> Kulturimmanente und kulturtranszendente Aspekte im Menschenbild
 
-## 20. Mai 96
-> W. Peter Mulacz, Wien:
-> ### "Physikalische Phänomene" der Parapsychologie in neuer Sicht
-> (mit Lichtbildern und Videovorführung)
+## 19. Mai 03
+> ### Generalversammlung
+> Nur für Mitglieder zugänglich
+> Anschließend:
+> Freie Diskussion über aktuelle Probleme der Parapsychologie (Prof. Peter MULACZ)
 
-## 03. Juni 96
-> Alfons Steiner, Wien:
-> ### Eine Gruppe erzeugt "Philipp"
-> (Das Abenteuer einer kollektiven "Geistbeschwörung" - Die psychische Macht der Masse. Nach dem gleichnamigen Buch)
 
-          
+
+## 16. Juni 03
+> Prof. Dr. Johannes HAGEL, GENF/KÖLN:
+> ### Sind psi-artige Effekte in unbelebten Systemen möglich?
+> Korrelations- und Resonanzeffekte in Wechselwirkung mit Zufallsprozessen als mögliche Träger systemautonomen Verhaltens
+> Im Anschluss an die Diskussion nach diesem Vortrag wird unserem Mitglied Stefan REICHEL Gelegenheit gegeben, eine kurze sozialpsychologische Untersuchung (anonymer Fragebogen) zur Einstellung gegenüber der Parapsychologie durchzuführen (Diplomarbeit am Institut für Psychologie der Universität Wien, Betreuer A.o. Univ.-Prof. Mag. Dr. A. HERGOVICH).
+
+
+
+
+Die Vorträge finden jeweils an Montagen im Neuen Institutsgebäude der Universität Wien,   1010 WIEN,   Universitätsstraße 7 („NIG“), statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [rechts]).
+
+Beginn:   20.00 h pünktlich

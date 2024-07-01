@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2017
 subtitle: Vortragsprogramm für das Sommer-Semester 2017
-tags: [Vortragsprogramm, Sommer 2017]
+tags: [Vortragsprogramm, Sommer ]
 comments: false
 author: W. Peter Mulacz
 ---

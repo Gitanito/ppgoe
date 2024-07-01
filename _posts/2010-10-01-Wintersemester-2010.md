@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2010/11
 subtitle: Vortragsprogramm für das Winter-Semester 2010/11
-tags: [Vortragsprogramm, Winter 2010]
+tags: [Vortragsprogramm, Winter ]
 comments: false
 author: W. Peter Mulacz
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 1997
 subtitle: Vortragsprogramm für das Sommer-Semester 1997
-tags: [Vortragsprogramm, Sommer 1997]
+tags: [Vortragsprogramm, Sommer ]
 comments: false
 author: W. Peter Mulacz
 ---

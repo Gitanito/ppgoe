@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2021/22
 subtitle: Vortragsprogramm für das Winter-Semester 2021/22
-tags: [Vortragsprogramm, Winter 2021]
+tags: [Vortragsprogramm, Winter ]
 comments: false
 author: W. Peter Mulacz
 ---

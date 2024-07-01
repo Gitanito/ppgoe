@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2013/14
 subtitle: Vortragsprogramm für das Winter-Semester 2013/14
-tags: [Vortragsprogramm, Winter 2013]
+tags: [Vortragsprogramm, Winter ]
 comments: false
 author: W. Peter Mulacz
 ---

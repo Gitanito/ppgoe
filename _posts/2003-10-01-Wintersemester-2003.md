@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2003/04
 subtitle: Vortragsprogramm für das Winter-Semester 2003/04
-tags: [Vortragsprogramm, Winter 2003]
+tags: [Vortragsprogramm, Winter ]
 comments: false
 author: W. Peter Mulacz
 ---

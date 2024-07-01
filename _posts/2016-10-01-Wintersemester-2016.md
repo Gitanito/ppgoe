@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2016/17
 subtitle: Vortragsprogramm für das Winter-Semester 2016/17
-tags: [Vortragsprogramm, Winter 2016]
+tags: [Vortragsprogramm, Winter ]
 comments: false
 author: W. Peter Mulacz
 ---

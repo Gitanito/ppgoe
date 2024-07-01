@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2023/24
 subtitle: Vortragsprogramm für das Winter-Semester 2023/24
-tags: [Vortragsprogramm, 2023]
+tags: [Vortragsprogramm, Winter 2023]
 comments: false
 author: W. Peter Mulacz
 ---

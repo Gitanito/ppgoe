@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2012
 subtitle: Vortragsprogramm für das Sommer-Semester 2012
-tags: [Vortragsprogramm, 2012]
+tags: [Vortragsprogramm, Sommer 2012]
 comments: false
 author: W. Peter Mulacz
 ---

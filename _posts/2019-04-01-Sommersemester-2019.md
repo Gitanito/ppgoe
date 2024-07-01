@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2019
 subtitle: Vortragsprogramm für das Sommer-Semester 2019
-tags: [Vortragsprogramm, 2019]
+tags: [Vortragsprogramm, Sommer 2019]
 comments: false
 author: W. Peter Mulacz
 ---

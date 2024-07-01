@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2000
 subtitle: Vortragsprogramm für das Sommer-Semester 2000
-tags: [Vortragsprogramm, 2000]
+tags: [Vortragsprogramm, Sommer 2000]
 comments: false
 author: W. Peter Mulacz
 ---

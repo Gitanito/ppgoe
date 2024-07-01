@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2004
 subtitle: Vortragsprogramm für das Sommer-Semester 2004
-tags: [Vortragsprogramm, 2004]
+tags: [Vortragsprogramm, Sommer 2004]
 comments: false
 author: W. Peter Mulacz
 ---

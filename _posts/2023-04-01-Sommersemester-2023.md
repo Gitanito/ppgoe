@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2023
 subtitle: Vortragsprogramm für das Sommer-Semester 2023
-tags: [Vortragsprogramm, 2023]
+tags: [Vortragsprogramm, Sommer 2023]
 comments: false
 author: W. Peter Mulacz
 ---

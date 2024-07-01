@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2001
 subtitle: Vortragsprogramm für das Sommer-Semester 2001
-tags: [Vortragsprogramm, 2001]
+tags: [Vortragsprogramm, Sommer 2001]
 comments: false
 author: W. Peter Mulacz
 ---

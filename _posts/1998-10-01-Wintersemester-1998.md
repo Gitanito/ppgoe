@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 1998/99
 subtitle: Vortragsprogramm für das Winter-Semester 1998/99
-tags: [Vortragsprogramm, 1998]
+tags: [Vortragsprogramm, Winter 1998]
 comments: false
 author: W. Peter Mulacz
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 1999
 subtitle: Vortragsprogramm für das Sommer-Semester 1999
-tags: [Vortragsprogramm, 1999]
+tags: [Vortragsprogramm, Sommer 1999]
 comments: false
 author: W. Peter Mulacz
 ---

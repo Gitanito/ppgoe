@@ -2,7 +2,7 @@
 layout: post
 title: Sommer-Semester 2024
 subtitle: Vortragsprogramm für das Sommer-Semester 2024
-tags: [Vortragsprogramm, 2024]
+tags: [Vortragsprogramm, Sommer 2024]
 comments: false
 author: W. Peter Mulacz
 ---

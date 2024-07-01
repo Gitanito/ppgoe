@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2006/07
 subtitle: Vortragsprogramm für das Winter-Semester 2006/07
-tags: [Vortragsprogramm, 2006]
+tags: [Vortragsprogramm, Winter 2006]
 comments: false
 author: W. Peter Mulacz
 ---

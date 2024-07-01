@@ -2,7 +2,7 @@
 layout: post
 title: Winter-Semester 2019/20
 subtitle: Vortragsprogramm für das Winter-Semester 2019/20
-tags: [Vortragsprogramm, 2019]
+tags: [Vortragsprogramm, Winter 2019]
 comments: false
 author: W. Peter Mulacz
 ---

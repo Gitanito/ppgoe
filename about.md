@@ -8,7 +8,7 @@ subtitle: Die heutige Österreichische Gesellschaft für Parapsychologie und Gre
 
 Der Motor hinter der Gründung einer Gesellschaft zum Studium der parapsychologischen Phänomene war 
 
-![wassilk2.gif](assets%2Fimg%2Fwassilk2.gif)
+![wassilk2.gif](assets/img/wassilk2.gif)
 
 **Gräfin Zoë Wassilko-Serecki**,
 

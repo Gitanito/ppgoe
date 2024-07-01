@@ -10,7 +10,7 @@ Der Motor hinter der Gründung einer Gesellschaft zum Studium der parapsychologi
 
 ![wassilk2.gif](assets/img/wassilk2.gif)
 
-**Gräfin Zoë Wassilko-Serecki**,
+**[Gräfin Zoë Wassilko-Serecki](details/zugun.md)**,
 
 aus deren Studienkreis rund um das rumänische Spukmedium Eleonore Zugun diese Gesellschaft direkt hervorgegangen ist; zum ersten Präsident wurde Univ.-Prof. Dr. Hans Thirring (Institut für Theoretische Physik der Universität Wien) gewählt, der bereits seit 1924 mit „physikalischen Medien“ experimentiert hatte. Die Jahre von der Gründung bis zum „Anschluß“ von 1938 waren außerordentlich fruchtbar; die Gesellschaft war – vor allem dank der Aktivität der Generalsekretärin, Gräfin Wassilko – in die internationale parapsychologische Szene voll integriert, sie war experimentell orientiert und zahlreiche ihrer führenden Mitglieder, z. B. der Psychoanalytiker Dr. Alfred Baron Winterstein, sind mit Publikationen an die Öffentlichkeit getreten.   (Vgl. auch „Details zur Geschichte und Vorgeschichte der Österreichische Gesellschaft für Parapsychologie, Dokumente dazu“.)
 

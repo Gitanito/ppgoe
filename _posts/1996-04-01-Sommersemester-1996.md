@@ -7,8 +7,6 @@ comments: false
 author: W. Peter Mulacz
 ---
 
-# Vortragsprogramm für das Sommer-Semester 1996
-
 ## 15. April 96
 > Viktor Farkas, Wien:
 > ### Unglaublich - aber wahr!

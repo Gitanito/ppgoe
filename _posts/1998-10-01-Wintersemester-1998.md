@@ -1,40 +1,45 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 1998/99
+subtitle: Vortragsprogramm für das Winter-Semester 1998/99
+tags: [Vortragsprogramm, 1998]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 05. Okt. 98
+> W. Peter MULACZ, Wien:
+> ### Aktuelle Aspekte der internationalen parapsychologischen Forschung
+> Laborexperimente, Poltergeistfälle, u.a. – 41. Jahrestagung der Parapsychological Association [Halifax, Aug. 98] – Karlis Osis (†) und das "Survival-Net" (Charles Tart)
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
+## 19. Okt. 98
+> Asst.-Prof. Dr. Manfred KREMSER, Wien:
+> ### Voodoo in Cyberspace
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 16. Nov. 98
+> Mag. Astrid KURY, Graz:
+> ### Kunst und Okkultismus
+> Die Rezeption des Okkulten durch die künstlerische Avantgarde der Jahrhundertwende, insbesondere Schiele und Kokoschka
+> (mit Lichtbildern)
+
+
+
+## 14. Dez. 98
+> Univ.-Prof. Dr. Franz MOSER, Graz:
+> ### "Einsprachen" aus neuester Zeit – Vergleich mit wissenschaftlichen Erkenntnissen des 20. Jahrhunderts
+> Zur Analyse medialer Kundgebungen
+
+
+
+## 18. Jänner 99
+> Mag. Ute MOOS, Wien:
+> ### Geistheilung in Österreich
+
+
+
+Die Vorträge finden jeweils an Montagen im neuen Elektrotechnischen Institut der Technischen Universität Wien, 1040 Wien,  Gußhausstraße 27 - 29, statt (Parterre, Hörsaal IX); Beginn: 19.00 h pünktlich.
+

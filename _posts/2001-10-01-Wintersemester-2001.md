@@ -1,40 +1,50 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2001/02
+subtitle: Vortragsprogramm für das Winter-Semester 2001/02
+tags: [Vortragsprogramm, 2001]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 22. Oktober 01
+> Univ.-Prof. Dr. Gerhard KUBIK, BLANTYRE, KLAGENFURT, WIEN:
+> ### Hexerei aus intrakultureller und psychoanalytischer Sicht 
+> #### eine GegenüberstellungMaterialien aus TANZANIA (1962) und MALAWI (1967-2001)
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
+## 05. November 01
+> Univ.-Lektor Dr. Günther FLECK, WIEN:
+> ### Die Parapsychologie im Spannungsfeld zwischen skeptischer Ablehnung und romantischer Leichtgläubigkeit
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 19. November 01
+> Alfons STEINER, WIEN:
+> ### Jenseitsvorstellungen im Wandel der Zeiten
+
+
+
+## 10. Dezember 01
+> Prof. Peter MULACZ, WIEN:
+> ### Biologie, Vitalismus und die „goldene Ära“ der europäischen Parapsychologie  
+> Zum Paradigmenwandel in der Parapsychologie
+
+
+
+## 14. Jänner 02
+> Dr. Friedrich BESTENREINER, GRÜNWALD [D]:
+> ### Künstliche Intelligenz und paranormale Phänomene
+
+
+
+
+Die Vorträge finden jeweils an Montagen im Neuen Institutsgebäude der Universität Wien,   1010 WIEN,   Universitätsstraße 7 ("NIG"), statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [rechts]).
+
+Beginn:   20.00 h pünktlich
+
+
+
+Bitte beachten Sie auch das Buch aus der Feder unseres Ehrenpräsidenten, das im Frühjahr erschienen ist.
+

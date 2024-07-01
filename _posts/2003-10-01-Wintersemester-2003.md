@@ -1,40 +1,44 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2003/04
+subtitle: Vortragsprogramm für das Winter-Semester 2003/04
+tags: [Vortragsprogramm, 2003]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 20. Okt. 03
+> Prof. DDr. Ervin LASZLO & Dr. Maria SAGI, BUDAPEST:
+> ### Telepathie und Telesomatik - Kommunikation und Heilung im Psi-Feld - Teil I
+> Die konzeptuellen Grundlagen an der vordersten Front der Wissenschaft
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 21. Okt. 03
+> Prof. DDr. Ervin LASZLO & Dr. Maria SAGI, BUDAPEST:
+> ### Telepathie und Telesomatik - Kommunikation und Heilung im Psi-Feld - Teil II
+> Die praktischen Dimensionen für Gesundheit und Leben
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 10. Nov. 03
+> HR a.o. Univ.-Prof. Dr. Hermann HARRAUER, WIEN:
+> ### "Magische" Gemmen aus der Antike
+> Mit Bilddokumenten und Anschauungsmaterial
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+## 01. Dez. 03
+> Prof. Dipl.-Ing. Dr. Robert PUCHER, WIEN:
+> ### "PSI" im Alltag - praktische Erfahrungen
+> Besitzt jeder Mensch psi-Fähigkeiten?
+
+## 19. Jan. 04
+> Prof. Peter MULACZ, WIEN:
+> ### "Zeitgeschichte" und Parapsychologie - Teil I
+> Okkulte Wurzeln des Nationalsozialismus
+
+
+
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten zusätzlich an Dienstagen im Neuen Institutsgebäude der Universität Wien,   1010 WIEN,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [rechts]).
+
+Beginn:   20.00 h pünktlich
+
+ 

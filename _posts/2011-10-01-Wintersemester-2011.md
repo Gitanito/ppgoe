@@ -1,40 +1,47 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2011/12
+subtitle: Vortragsprogramm für das Winter-Semester 2011/12
+tags: [Vortragsprogramm, 2011]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
 
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 10. Oktober 11
+> Ao. Univ. Prof. Dr. Bernd Saletu, Wien:
+> ### Schlaf und Traum
+> Ergebnisse moderner Schlafforschung und Schlafmedizin
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 21. November 11
+> Dr. Marco Bischof, Berlin:
+> ### Feldkonzepte in Physik, Biologie, Psi- und Bewusstseinsforschung
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 22. November 11
+> Dr. Marco Bischof, Berlin:
+> ### Verbundenheit
+> Ein partizipatives Weltbild
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 05. Dezember 11
+> Univ.-Lektor Felix de Mendelssohn, Wien:
+> ### Erkundungen über das Unheimliche
+> mit einem Nachtrag zu Konvergenzen und Divergenzen zwischen Parapsychologie und Psychoanalyse
+
+
+## 16. Jänner 12
+> Prof. Peter Mulacz, Wien:
+> ### Von der Telepathie zur non-lokalen Bewusstheit
+> Vom seelischen Erleben jenseits von Raum und Zeit zu quantenphysikalischen Modellansätzen
+
+
+
+Wenn nichts anderes angegeben, gilt:
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten tlw. zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II bzw. Hörsaal III [gleich daneben]).
+
+
+Beginn:   die Beginnzeiten sind in diesem Semester unterschiedlich, zumeist 19 h s.t., am Dienstag jedoch 20 h c.t.
+

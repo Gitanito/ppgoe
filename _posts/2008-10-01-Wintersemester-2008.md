@@ -1,40 +1,55 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2008/09
+subtitle: Vortragsprogramm für das Winter-Semester 2008/09
+tags: [Vortragsprogramm, 2008]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
 
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 20. Oktober 08
+> Min. Rat Mag. Dr. Hubert Zeinar, Oberst i.R., Wien:
+> ### Vom „Zauber” der Montur
+> Militärische Uniformen, Fahnen, Feldzeichen etc. in kulturhistorischer Sicht: Aspekte der Magie – apotropäische Funktion, glückbringende Symbole, Machtsymbole …
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 08. und 09. November 08
+> (Aula am Campus)
+> 
+> Zweitägiges Symposion über Literatur und Okkultismus mit internationalen Referenten
+> ### »FASZINATION DES OKKULTEN«
+> (Programmänderungen vorbehalten – Stand 20.10.2008)
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 17. November 08
+> Dipl.-Phys. Dr. Wilfried Kugel, Berlin:
+> ### Albert Einstein und die Parapsychologie
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 18. November 08
+> Dipl.-Phys. Dr. Wilfried Kugel, Berlin:
+> ### Präkognition – Informationen aus der Zukunft
+> 20 Jahre experimentelle Forschung zur Entwicklung eines Verstärkers für Präkognition
+
+
+## 19. Jänner 09
+> ### Generalversammlung (nur für Mitglieder)
+> anschließend (ca. 20:30h) unter der Diskussionsleitung von 
+> 
+> Prof. Peter Mulacz, Wien:
+> 
+> ### Freie Diskussion über aktuelle Probleme der Parapsychologie
+> (offen für Mitglieder und Gäste)
+
+
+
+
+Wenn nichts anderes angegeben, gilt:
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten tlw. zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+
+Beginn:   20.00 h s. t. !
+
+ 

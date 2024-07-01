@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
+title: Winter-Semester 1997/98
+subtitle: Vortragsprogramm für das Winter-Semester 1997/98
 tags: [Vortragsprogramm, 1997]
 comments: false
 author: W. Peter Mulacz
@@ -12,29 +12,31 @@ Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Te
 Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
 
 
+## 20. Okt. 97
+> W. Peter MULACZ, Wien:                 
+> ### Der Spuk von Talpa (Eleonore Zugun)            
+> Der "Paradefall" von Gfn. Wassilko (1897 - 1978) – aktuelle Ansätze zur Spukforschung
 
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+
+## 10. Nov. 97
+> Alfons STEINER, Wien:            
+> ### Geschichte der Magie
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 24. Nov. 97
+> Dr. Robert FEDERHOFER, Wien:             
+> ### Wilhelm Reich und die Energie          
+> Von der Sexualökonomie zur Orgon-Biophysik
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 15. Dez. 97
+> Doz. Gerhard EGGETSBERGER, Wien:        
+> ### Die innere Energie – ihre Meßbarkeit und Lenkung
+> Die wissenschaftliche Objektivierung der Kundalini mit Demonstrationen praktischer Messungen
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 12. Jan. 98
+> Ass. Prof. Dr. Werner SCHULZE, Wien:            
+> ### Harmonikale Forschung
+
+       

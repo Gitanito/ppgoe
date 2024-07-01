@@ -1,40 +1,47 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2005/06
+subtitle: Vortragsprogramm für das Winter-Semester 2005/06
+tags: [Vortragsprogramm, 2005]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
 
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 03. Oktober 05
+> Dr. Rudolf KAPELLNER, Wien:
+> ### Psychoaktive Pflanzen und heilige Rauschmittel
+> Über Gebrauch, Rituale und Erleben mit pflanzlichen psychoaktiven Substanzen
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 07. November 05
+> Prof. Peter MULACZ, Wien:
+> ### Neuere Spukfälle aus Österreich
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 21. November 05
+> Mag. Dr. Christa TUCZAY, Wien:
+> ### Das magnetische Zeitalter
+> Mesmerismus in der Literatur der Romantik und darüber hinaus
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 12. Dezember 05
+> Ao. Univ.-Prof. Dr. Andreas HERGOVICH, Wien:
+> ### Illusionen in Magie und Parapsychologie
+> Zur möglichen Erklärung von Wundern
+
+
+## 23. Jänner 06
+> (ausnahmsweise Hörsaal III)
+>
+> Dr. Josef SCHWAIGER, Wien:
+> ### Reinkarnation - eine „Marmeladenhypothese“?
+> Die Reinkarnationshypothese als Herausforderung der naturalistischen Sicht des Todes
+
+
+
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II [rechts]).
+
+Beginn:   20.00 h pünktlich
+

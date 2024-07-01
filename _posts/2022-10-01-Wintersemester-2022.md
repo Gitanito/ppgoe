@@ -1,40 +1,48 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2022/23
+subtitle: Vortragsprogramm für das Winter-Semester 2022/23
+tags: [Vortragsprogramm, 2022]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 24. Oktober 22
+> Univ.-Prof. Mag. Dr. Klaus S. Davidowicz, Wien:
+> ### Zwischen Tradition und Mystik
+> Seelenvorstellungen im Judentum
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 7. November 22
+> Priv.-Doz. MMag. DDr. Christian Bachhiesl, Graz:
+> ### Die Vermessung der (kriminellen) Seele
+> Die Verheißungen und Grenzen einer naturwissenschaftlich orientierten Seelensuche am Beispiel der Kriminalwissenschaft
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 28. November 22
+> Prof. Peter Mulacz, Wien:
+> ### Wenn die Seele auf Reisen geht …
+> „Out of Body Experience“ (Außerkörperliche Erfahrung) ─ theoretische Konzepte und experimentelle Resultate
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 12. Dezember 22
+> Prof. Peter Mulacz, Wien:
+> ### Wenn Menschen durch die Luft fliegen …
+> Levitation bei parapsychologischen Medien und katholischen Heiligen
+
+## 30. Jänner 23
+> HR i. R. Dr. Günther Fleck, Pfaffstätten:
+> Monismus versus Dualismus
+> Zur Problematik eines vom Gehirn unabhängigen Geistes
+
+
+
+
+
+
+
+Sofern nichts anderes angegeben ist, gilt:
+
+Die Vorträge finden im Neuen Institutsgebäude der Universität Wien („NIG“), 1010 Wien, Universitätsstraße 7, statt (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+Beginnzeit: jeweils 20 Uhr c.t.

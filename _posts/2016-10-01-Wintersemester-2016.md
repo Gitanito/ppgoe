@@ -1,40 +1,48 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2016/17
+subtitle: Vortragsprogramm für das Winter-Semester 2016/17
+tags: [Vortragsprogramm, 2016]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 24. Oktober 16
+> Andreas Huber MSc., Wien:
+> ### FLOATING UND SENSORISCHE DEPRIVATION
+> Ein Überblick über die körperlichen und psychologischen Effekte des Floating-Tanks
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 7. November 16
+> Ing. Reinhard Klein, Klosterneuburg:
+> ### SPUKHAFTE ERLEBNISSE IN EINEM „GEISTERSCHLOSS“
+> Fünf Jahre lang Schlossbewohner in Schottland
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 5. Dezember 16
+> Ao. Univ.-Prof. Dr. Peter Dinzelbacher, Salzburg
+> ### STIMMEN AUS DEM JENSEITS?
+> Auditionen und deren Interpretation in Berichten des Mittelalters
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 16. Jänner 17
+> Dr. Yvonne Schaffler, Wien
+> ## BESESSENHEITS-PHÄNOMENE IN DER DOMINIKANISCHEN REPUBLIK
+> Vodou-Glaube, Trance, subjektive Erfahrungen und sozialpsychologische Aspekte
+
+
+
+## 30. Jänner 17
+> Ao. Univ.-Prof. Dr. Wolfgang Marktl, Wien
+> ### INTEGRATIVE MEDIZIN
+> Unwissenschaftliche Alternative oder Paradigmenwechsel?
+
+
+
+
+
+Sofern nichts anderes angegeben ist, gilt:
+
+Die Vorträge finden im Neuen Institutsgebäude der Universität Wien („NIG“), 1010 Wien, Universitätsstraße 7, statt (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+Beginnzeit: jeweils 20 h c.t.

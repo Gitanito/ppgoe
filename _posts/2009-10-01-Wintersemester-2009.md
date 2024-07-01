@@ -1,40 +1,50 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2009/10
+subtitle: Vortragsprogramm für das Winter-Semester 2009/10
+tags: [Vortragsprogramm, 2009]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 19. Oktober 09
+> Ao. Univ.-Prof. Dr. Erich Neuwirth, Wien:
+> ### Zufall und Vorhersagbarkeit
+> Was können Wahrscheinlichkeitsrechnung und Statistik zum Verständnis beitragen?
+> 
+>Wegen Erkrankung des Referenten muß dieser Vortrag leider abgesagt werden. Da wir nicht alle potentiellen Besucher von dem Ausfall benachrichtigen können, findet statt dessen eine andere Veranstaltung (allgemeine Diskussion über parapsychologische Themen) statt. Das Statistik-Thema wird zu einem späteren Zeitpunkt (nächstes oder übernächstes Semester) nachgeholt werden.
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 30. November 09
+> em. Univ.-Prof. Dr. Hartmann Römer, Freiburg i. Br.:
+> ### Synchronizitätserscheinungen als Verschränkungskorrelationen in einer verallgemeinerten Quantentheorie
+> Paranormales ohne Einwirkungen
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 01. Dezember 09
+> em. Univ.-Prof. Dr. Hartmann Römer, Freiburg i. Br.:
+> ### Konsistente und inkonsistente Geschichten
+> Weltverständnis als Erzählung
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 07. Dezember 09
+> Univ.-Prof. Dr. Stephan Procházka, Wien:
+> ### Der »Zar«
+> Ein orientalisches Trance-, Besessenheits- und Heilungsritual
+
+
+## 18. Jänner 10
+> Prof. Peter Mulacz, Wien:
+> ### Ein aktuelles Telepathie-Experiment
+> mit der Besonderheit eines kontinuierlichen sensorischen Feedbacks
+> (Mit praktischer Computer-Demonstration)
+
+
+
+
+Wenn nichts anderes angegeben, gilt:
+
+Die Vorträge finden jeweils an Montagen, bei ausländischen Referenten tlw. zusätzlich an Dienstagen, im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+
+Beginn:   20.00 h s. t. !

@@ -1,40 +1,52 @@
 ---
 layout: post
-title: Winter-Semester 1996/97
-subtitle: Vortragsprogramm für das Winter-Semester 1996/97
-tags: [Vortragsprogramm, 1997]
+title: Winter-Semester 2014/15
+subtitle: Vortragsprogramm für das Winter-Semester 2014/15
+tags: [Vortragsprogramm, 2014]
 comments: false
 author: W. Peter Mulacz
 ---
 
-Die Vorträge finden im Hörsaal 9 des neuen Elektrotechnischen Instituts der Technischen Universität Wien, 1040, Gußhausstraße 27 - 29, Parterre, statt.
-
-Beginn jeweils um 19 Uhr pünktlich (ohne "akademisches Viertel").
-
-
-
-## 04. November 96
-> Anselm Peters, Melk:            
-> ### NOSTRADAMUS
+## 20. Oktober 14
+> Manfred Ach, Arbeitsgemeinschaft für Religions- und Weltanschauungsfragen, Grünwald bei München:
+> ### Die Dekadenz des Okkultismus
+> Geheimkulte bei Joris-Karl Huysmans (Autor des Romans Là-bas, 1891)
 
 
-## 18. November 96
-> Prof. Dr. Gerda Leber-Hagenau, Wien:          
-> ### VERKÜNDER UND VERFÜHRER              
-> #### Prophetie und Weissagung in der Geschichte
-> (Eine aktualisierte Neuauflage des gleichnamigen Buches der Referentin befindet sich in Vorbereitung.)
+## 17. November 14
+> DDr. Walter von Lucadou, Parapsychologische Beratungsstelle, Freiburg im Breisgau:
+> ### Vom Abgrund der Systeme – Theoretisches zum Spuk
+> Die systemtheoretische Überwindung des Gegensatzes von rationaler Naturbeschreibung und verborgener, symbolisch-bildhafter Wirklichkeit
+> 
+> Mit Fallbeispielen (Videos)
 
-## 02. Dezember 96
-> Univ.-Prof. Dr. Franz Moser, Graz:
-> ### WISSENSCHAFTLICHE UND SPIRITUELLE GRUNDLAGEN DER PRÄKOGNITION
 
-## 16. Dezember 96
-> W. Peter Mulacz, Wien:            
-> ### ENDZEITPROPHEZEIUNGEN und "DRITTER WELTKRIEG"                     
-> Historische und aktuelle Prophezeiungen vs. Präkognition im Erfahrungshorizont der Parapsychologie
+## 15. Dezember 14
+> HR Dr. Günther Fleck, IHSW/LVAk, Wien:
+> ### Ein Hauch von Anderswelt
+> Überwirklichkeit und Entrückung in der phantastischen Kunst und Literatur
 
-## 20. Januar 97       	
-> Ass.-Prof. Dr. Manfred Kremser, Wien:
-> ### PRÄKOGNITION - ORAKEL - DIVINATION        
-> #### Kulturanthropologische Aspekte            
-> (mit audiovisuellen Beispielen)       
+
+## 19. Jänner 15
+> Prof. Etzel Cardeña Ph.D., Universität Lund, Schweden:
+> ### The Artist as Seer
+> Ostensible Psi Phenomena and Alterations of Consciousness in Modern and Contemporary Art
+> (Vortrag in englischer Sprache)
+
+
+## 20. Jänner 15
+> Prof. Etzel Cardeña Ph.D., Universität Lund, Schweden:
+> ### Alternate Doorways
+> The Relation between Alterations of Consciousness and Psi Phenomena
+> (Vortrag in englischer Sprache)
+
+
+
+
+Sofern nichts anderes angegeben ist, gilt:
+
+Die Vorträge finden im Neuen Institutsgebäude der Universität Wien,   1010 Wien,   Universitätsstraße 7 („NIG“) statt  (Parterre, geradeaus die Stiegen hinunter, Hörsaal II).
+
+Beginnzeit: jeweils 20 h c.t.
+
+  

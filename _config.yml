@@ -22,7 +22,7 @@ author: Österreichische Gesellschaft für Parapsychologie
 navbar-links:
   Über uns: "about"
   Resourcen:
-    - Basisinformation: "details/basicinfo.md"
+    - Basisinformation: "details/basicinfo"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Mitglieder: "https://deanattali.com"
 

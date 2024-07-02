@@ -23,8 +23,8 @@ navbar-links:
   Über uns: "about"
   Resourcen:
     - Basisinformation: "details/basicinfo"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Mitglieder: "https://deanattali.com"
+    - Vortragsprogramm: "tags/#Vortragsprogramm"
+  Mitglieder: "details/memberinfo"
 
 ################
 # --- Logo --- #

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: AUSSERSINNLICHE ERFAHRUNG (ASE) vs. AUSSERGEWÖHNLICHE ERFAHRUNG (AgE)
-tags: [Vortrag, Folien, PDF, Dezember 2023, Peter Mulacz ]
+tags: [Vortrag, Dezember 2023, Peter Mulacz ]
 comments: false
 author: W. Peter Mulacz
 ---

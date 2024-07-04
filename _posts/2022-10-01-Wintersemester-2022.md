@@ -32,7 +32,7 @@ author: W. Peter Mulacz
 
 ## 30. Jänner 23
 > HR i. R. Dr. Günther Fleck, Pfaffstätten:
-> Monismus versus Dualismus
+> ### Monismus versus Dualismus
 > Zur Problematik eines vom Gehirn unabhängigen Geistes
 
 

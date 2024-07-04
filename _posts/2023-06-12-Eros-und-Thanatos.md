@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EROS UND THANATOS — MESSBARE „BEBEN“ IM BEWUSSTSEINSFELD
-tags: [Vortrag, Folien, PDF, Juni 2023, Wolfhardt Janu ]
+tags: [Vortrag, Juni 2023, Wolfhardt Janu ]
 comments: false
 author: W. Peter Mulacz
 ---

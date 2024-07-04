@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JOHANN CASPAR LAVATER – Ein Pionier der Parapsychologie
-tags: [Vortrag, Folien, PDF, April 2024, Karl Baier ]
+tags: [Vortrag, April 2024, Karl Baier ]
 comments: false
 author: W. Peter Mulacz
 ---

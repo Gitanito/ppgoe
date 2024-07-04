@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CHINESISCHE GEISTER UND DÄMONEN
+title: DIE KIRCHE UND DAS PARANORMALE
 tags: [Vortrag, Februar 2021, Nicole Bauer ]
 comments: false
 author: W. Peter Mulacz

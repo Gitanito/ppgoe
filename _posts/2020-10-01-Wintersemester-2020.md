@@ -25,8 +25,14 @@ author: W. Peter Mulacz
 > ### DIE KIRCHE UND DAS PARANORMALE
 > Kommunikation und Interaktion zwischen menschlichen und nichtmenschlichen Akteuren im katholischen Exorzismus
 >
-> Zoom-Meeting beitreten:
-> https://zoom.us/j/94266141957?pwd=clM4bkpTN0lGQ0JmdVFwaFMyalBOdz09
+> Folien: [Praesentation_Exorzimus.pdf](../assets/resources/Praesentation_Exorzimus.pdf){:target="_blank" rel="noopener"}
+> 
+> Vortragende: [Nicole M. BAUER](https://nicole-bauer.at/){:target="_blank" rel="noopener"}
+
+
+
+
+
 
 ## 15. Februar 21
 > In englischer Sprache

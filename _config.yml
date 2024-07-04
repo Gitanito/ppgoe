@@ -21,9 +21,12 @@ author: Österreichische Gesellschaft für Parapsychologie
 
 navbar-links:
   Über uns: "about"
+  Aktuelles Vortragsprogramm: "2024-04-01-Sommersemester-2024/"
   Resourcen:
     - Basisinformation: "details/basicinfo"
     - Vortragsprogramm: "tags/#Vortragsprogramm"
+    - Newsletter: "tags/#Newsletter"
+    - Inhalte: "tags/#Vortrag"
   Mitglieder: "details/memberinfo"
 
 ################

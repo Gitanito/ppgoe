@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ZWEI MARKANTE SPUKFÄLLE:  WILMA MOLNAR UND ELEONORE ZUGUN
+title: WILMA MOLNAR UND ELEONORE ZUGUN
 tags: [Vortrag, April 2023, Peter Mulacz ]
 comments: false
 author: W. Peter Mulacz
